@@ -1,0 +1,5 @@
+Possíveis implementações:
+1. Guardar histórico do estado final do mercado
+2. Separar em transações de empresas diferentes
+3. Usar threads para otimizar o processo no Ledge
+4. Usar threads nos intermediários
